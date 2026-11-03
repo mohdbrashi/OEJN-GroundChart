@@ -1,0 +1,16 @@
+{
+  "name": "OEJN Jeddah Ground Chart",
+  "short_name": "OEJN Ground",
+  "description": "Training ground chart for Jeddah King Abdulaziz International: runways, taxiways, aprons and ground frequencies.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#F4F6F3",
+  "theme_color": "#14181C",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
